@@ -36,6 +36,6 @@
 			"prettier --write --plugin-search-dir=.",
 			"prettier --check --plugin-search-dir=."
 		],
-		"*.{js,ts,svelte}": "eslint --max-warnings 0"
+		"*.{js,ts,svelte}": "eslint --fix --max-warnings 0"
 	}
 }
