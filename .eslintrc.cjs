@@ -17,5 +17,5 @@ module.exports = {
 		es2017: true,
 		node: true
 	},
-	"rules": { "no-console": "warn" }
+	rules: { 'no-console': 'warn' }
 };
